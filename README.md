@@ -2,4 +2,6 @@
 
 ## Training Data
 
-Training data was sourced from 
+Training data was sourced from https://github.com/Raman-Lab-UCLA/Multiclass_Metasurface_InverseDesign 
+
+Full details about generation can be found there. 
